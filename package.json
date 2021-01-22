@@ -1,0 +1,10 @@
+{
+  "name": "gatsby-plugin-tocbot",
+  "version": "0.1.0",
+  "description": "A gatsby plugin for adding tocbot, display table of contents",
+  "scripts": {
+  },
+  "keywords": ["gatsby", "gatsby-plugin", "tocbot", "toc"],
+  "author": "hikerpig <hikerpigwinnie@gmail.com>",
+  "license": "MIT"
+}
