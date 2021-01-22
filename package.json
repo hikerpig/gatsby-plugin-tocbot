@@ -4,6 +4,10 @@
   "description": "A gatsby plugin for adding tocbot, display table of contents",
   "scripts": {
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hikerpig/gatsby-plugin-tocbot.git"
+  },
   "keywords": ["gatsby", "gatsby-plugin", "tocbot", "toc"],
   "author": "hikerpig <hikerpigwinnie@gmail.com>",
   "license": "MIT"
